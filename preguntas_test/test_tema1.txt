@@ -1,4 +1,4 @@
-:w<pregunta>
+<pregunta>
    <enunciado>el texto del enunciado</enunciado>
    <opcionA>primera opcion</opcionA>
    <opcionB>segunda opcion</opcionB>
