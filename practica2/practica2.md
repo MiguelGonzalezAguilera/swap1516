@@ -59,3 +59,22 @@
 
 
 
+
+**Programar tareas con crontab**
+
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/4.cron1.PNG)
+
+
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/4.cron1_1.PNG)
+
+
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/4.cron1_2.PNG)
+
+
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/4.cron1_3.PNG)
+
+
+
+
+
+
