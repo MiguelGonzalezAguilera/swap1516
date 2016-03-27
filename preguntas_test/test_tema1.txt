@@ -1,19 +1,19 @@
 <pregunta>
-   <enunciado>el texto del enunciado</enunciado>
-   <opcionA>primera opcion</opcionA>
-   <opcionB>segunda opcion</opcionB>
-   <opcionC>tercera opcion</opcionC>
-   <opcionD>cuarta opcion</opcionD>
-   <solucion>C</solucion>
+   <enunciado>Tarde o temprano el hardware acaba fallando, ¿cuál de estás opciones sería una buena opción para cuando esto ocurra?</enunciado>
+   <opcionA>un hardware de calidad nunca falla</opcionA>
+   <opcionB>maquina servidor replicada</opcionB>
+   <opcionC>reemplazar el hadware por uno nuevo</opcionC>
+   <opcionD>estar en pendiente comprobacion del hardware para evitar que esto ocurra</opcionD>
+   <solucion>B</solucion>
 </pregunta>
 
 
 <pregunta>
-   <enunciado>el texto del enunciado</enunciado>
-   <opcionA>primera opcion</opcionA>
-   <opcionB>segunda opcion</opcionB>
-   <opcionC>tercera opcion</opcionC>
-   <opcionD>cuarta opcion</opcionD>
+   <enunciado>¿Cuál de estas opciones es mas común en un sitio web mal planificado?</enunciado>
+   <opcionA>acceso a bases de datos</opcionA>
+   <opcionB>interfaz mal diseñada</opcionB>
+   <opcionC>disponibilidad</opcionC>
+   <opcionD>tiempo de respuesta</opcionD>
    <solucion>C</solucion>
 </pregunta>
 

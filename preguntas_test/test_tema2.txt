@@ -1,20 +1,20 @@
 <pregunta>
-   <enunciado>el texto del enunciado</enunciado>
-   <opcionA>primera opcion</opcionA>
-   <opcionB>segunda opcion</opcionB>
-   <opcionC>tercera opcion</opcionC>
-   <opcionD>cuarta opcion</opcionD>
-   <solucion>C</solucion>
+   <enunciado>¿Cúal es la formula usada para medir la disponibilidad de un sitio web mediante un porcentaje?</enunciado>
+   <opcionA>100 *(tiempoCaido / periodoTiempo) -100</opcionA>
+   <opcionB>100 - (tiempoCaido + periodoTiempo) *100</opcionB>
+   <opcionC>100 / (tiempoCaido / periodoTiempo) +100</opcionC>
+   <opcionD>100 -(tiempoCaido / periodoTiempo) *100</opcionD>
+   <solucion>D</solucion>
 </pregunta>
 
 
 <pregunta>
-   <enunciado>el texto del enunciado</enunciado>
-   <opcionA>primera opcion</opcionA>
-   <opcionB>segunda opcion</opcionB>
-   <opcionC>tercera opcion</opcionC>
-   <opcionD>cuarta opcion</opcionD>
-   <solucion>C</solucion>
+   <enunciado>¿Cuál de estas opciones es el nombre de un algoritmo usado por el balanceador de carga para repartir el trafico de la red?</enunciado>
+   <opcionA>round robin</opcionA>
+   <opcionB>balancedo horizontal</opcionB>
+   <opcionC>balanceado vertical</opcionC>
+   <opcionD>balanceado por peso</opcionD>
+   <solucion>A</solucion>
 </pregunta>
 
 
