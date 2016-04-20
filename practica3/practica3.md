@@ -7,7 +7,7 @@
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.1.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.1.PNG)
 
 
 
@@ -16,35 +16,35 @@
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.2.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.2.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.3.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.3.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.4.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.4.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.5.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.5.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.6.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.6.PNG)
 
 
 
@@ -57,14 +57,14 @@
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.7.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.7.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/nginx_1.8.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/nginx_1.8.PNG)
 
 
 
@@ -79,21 +79,21 @@
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/haproxy_1.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/haproxy_1.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/haproxy_2.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/haproxy_2.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/haproxy_3.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/haproxy_3.PNG)
 
 
 
@@ -106,14 +106,14 @@
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/haproxy_4.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/haproxy_4.PNG)
 
 
 
 
 
 
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/haproxy_5.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica3/haproxy_5.PNG)
 
 
 
