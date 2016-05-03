@@ -57,7 +57,7 @@
 **siege -b t60S -v http://192.168.25.129**
  
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/siege.PNG)
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/resultados_siege_serv.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/res_siege_serv.PNG)
 
 **Muestra de una tabla y grafica de datos con los resultados obtenidos**
 
@@ -72,7 +72,7 @@
 **Realizamos los test a la maquina servidor mediante el comando de siege**  
 **siege -b t60S -v http://192.168.25.131**
  
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/resultados_siege_nginx.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/res_siege_nginx.PNG)
 
 **Muestra de una tabla y grafica de datos con los resultados obtenidos**
 
@@ -88,7 +88,7 @@
 **siege -b t60S -v http://192.168.25.132**
  
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/siege.PNG)
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/resultados_siege_haproxy.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica4/res_siege_haproxy.PNG)
 
 **Muestra de una tabla y grafica de dataos con los resultados obtenidos**
 
