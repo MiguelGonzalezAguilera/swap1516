@@ -1,0 +1,21 @@
+<pregunta>
+   <enunciado>¿Cuál de estos factores depende la conexión a internet para asegurar una buena calidad
+	de servicio y seguridad?</enunciado>
+   <opcionA>Longitud dinámica de paquetes</opcionA>
+   <opcionB>Paquetes rotos o perdidos</opcionB>
+   <opcionC>Longitud estática de paquetes</opcionC>
+   <opcionD>Filtrado y bloqueo de paquetes</opcionD>
+   <solucion>C</solucion>
+</pregunta>
+
+
+<pregunta>
+   <enunciado>¿Qué configuración resulta más segura en una granja web?</enunciado>
+   <opcionA>Configuración sin DMZ</opcionA>
+   <opcionB>Configuración de DMZ simple</opcionB>
+   <opcionC>Configuración de DMZ tradicional</opcionC>
+   <opcionD>Configuración de DMZ doble</opcionD>
+   <solucion>D</solucion>
+</pregunta>
+
+

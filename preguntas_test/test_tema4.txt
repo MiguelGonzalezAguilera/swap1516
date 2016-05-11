@@ -1,0 +1,20 @@
+<pregunta>
+   <enunciado>¿Cuál es la función de un balanceador de carga?</enunciado>
+   <opcionA>Dirige la Carga al servidor principal</opcionA>
+   <opcionB>Distribuye el tráfico entre varios servidores</opcionB>
+   <opcionC>Dirige la Carga siempre a la izquierda</opcionC>
+   <opcionD>Dirige la Carga al servidor con más memoria</opcionD>
+   <solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+   <enunciado>¿Cúal de estos software actúa como balanceadores de carga?</enunciado>
+   <opcionA>EVEREST</opcionA>
+   <opcionB>AUDACITY</opcionB>
+   <opcionC>NGINX</opcionC>
+   <opcionD>CRISTALMARK</opcionD>
+   <solucion></solucion>
+</pregunta>
+
+

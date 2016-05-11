@@ -1,0 +1,22 @@
+<pregunta>
+   <enunciado>¿A qué nos referimos cuando hablamos del Rendimiento(bis por segundo) en un 
+   balanceador de carga?</enunciado>
+   <opcionA>Velocidad que maneja y pasa el tráfico</opcionA>
+   <opcionB>Media de reenvíos a cada servidor</opcionB>
+   <opcionC>Tiempo en conocer si los servidores estan activos</opcionC>
+   <opcionD>Media de tiempo que están caídos los servidores</opcionD>
+   <solucion>A</solucion>
+</pregunta>
+
+
+<pregunta>
+   <enunciado>¿Qué ocurre cuando se alcanza el límite de trafico de red 
+   que produce una degradación grave en las prestaciones?</enunciado>
+   <opcionA>Las conexiones son normales</opcionA>
+   <opcionB>Se hace imposible la conexión</opcionB>
+   <opcionC>Las conexiones no se ven afectadas</opcionC>
+   <opcionD>Las conexiones suelen tardas más tiempo</opcionD>
+   <solucion>B</solucion>
+</pregunta>
+
+
