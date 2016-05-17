@@ -1,0 +1,19 @@
+<pregunta>
+   <enunciado>¿Cuál de estas tareas no la realiza un cortafuegos?</enunciado>
+   <opcionA>Control de protocolos de aplicación</opcionA>
+   <opcionB>Encriptado de contraseñas</opcionB>
+   <opcionC>Bloquear y filtrar paquetes</opcionC>
+   <opcionD>Control de tráfico de red a nivel de protocolo de red</opcionD>
+   <solucion>B</solucion>
+</pregunta>
+
+
+<pregunta>
+   <enunciado>¿Qué procedimiento de autentificación se considera más seguro?</enunciado>
+   <opcionA>Clave o pin</opcionA>
+   <opcionB>Reconocimiento de Voz</opcionB>
+   <opcionC>Tarjeta física con llave incluida</opcionC>
+   <opcionD>Escáner de retina</opcionD>
+   <solucion>D</solucion>
+</pregunta>
+
