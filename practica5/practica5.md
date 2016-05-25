@@ -2,7 +2,7 @@
 
 **REPLICACIÓN DE BASES DE DATOS MYSQL**
 
-#*Crear una BD e insertar datos**#
+#**Crear una BD e insertar datos**#
 
 **Creamos BD**  
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/create.PNG)
@@ -17,7 +17,7 @@
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/describe.PNG)
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/.PNG)
 
-#*Replicar una BD MySQL con mysqldump**#
+#**Replicar una BD MySQL con mysqldump**#
 
 **Flush de tablas en maquina1**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/flush.PNG)
@@ -35,7 +35,7 @@
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/bd2.PNG)
 
 
-#*Replicación de BD mediante una configuración maestro-esclavo**#
+#**Replicación de BD mediante una configuración maestro-esclavo**#
 
 **Lo primero que debemos hacer es editar el archivo de configuración de mysql del maestro en /etc/mysql/my.cnf **
 
@@ -51,11 +51,11 @@
 **El siguiente paso es editar la configuración del esclavo, es practicamente igual a la del maestro**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/id2.PNG)
 
-**Guardamos y reiniciamos el servicio*
+**Guardamos y reiniciamos el servicio**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/restartmysql2.PNG)
 
 **Volvemos al maestro para crear un usuario y darle una serie de permisos para la replicación**
-![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/ordenes2.PNG)
+![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/ordenenes2.PNG)
 
 **Pasamos a la maquina esclava para indicarle a mysql los datos el maestro**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/ordenmaestro.PNG)
@@ -63,7 +63,7 @@
 **Por ultimo al arrancar el esclavo los demonios de mysql empezaran su trabajo**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/master_slave.PNG)
 
-**Despues de activar las tablas en el maestro, comprobamos en el esclavo el estado que la variable "Seconds_Behind_Master" es distinta de null
+**Despues de activar las tablas en el maestro, comprobamos en el esclavo el estado que la variable "Seconds_Behind_Master" es distinta de null**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/status.PNG)
 
 **Para comprobar el funcionamiento en el maestro insertamos una serie de datos**
