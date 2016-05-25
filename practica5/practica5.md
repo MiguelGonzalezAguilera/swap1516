@@ -25,7 +25,7 @@
 **mysqldump en maquina1**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/mysqldump.PNG)
 
-**Unlock de tablas**
+**Hacemos el unlock de las tablas**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/unlock.PNG)
 
 **En la maquina 2 copiamos el archivo .sql con los datos salvados de la maquina1**
