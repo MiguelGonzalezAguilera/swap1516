@@ -7,7 +7,7 @@
 **Creamos BD**  
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/create.PNG)
 
-**Creamos tablas** 
+**Creamos tablas**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/table.PNG)
 
 **Insertamos datos en tablas**
@@ -37,7 +37,7 @@
 
 #**Replicación de BD mediante una configuración maestro-esclavo**#
 
-**Lo primero que debemos hacer es editar el archivo de configuración de mysql del maestro en /etc/mysql/my.cnf **
+**Lo primero que debemos hacer es editar el archivo de configuración de mysql del maestro en /etc/mysql/my.cnf**
 
 **Comentamos bind**
 ![img](https://github.com/MiguelGonzalezAguilera/swap1516/blob/master/imagenes/practica5/comentarbind.PNG)
